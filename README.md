@@ -3,6 +3,8 @@ An object oriented approach to a pong game.
 This was one of my first object oriented projects.
 There was a steep learning curve but I feel like I learned a lot and can apply these newly learned principles to future projects.
 
+Note: Some features may not work such as the database save feature if you do not have ![mysql](https://www.mysql.com/downloads/) installed
+
 How to run:
 Hover over the green code button
 Choose download as zip
@@ -10,7 +12,7 @@ Choose download as zip
 
 Right click on the downloaded file and choose extract all. 
 Run Intellij and open the project there. 
-If you do not have Intellij download here https://www.jetbrains.com/idea/download/ 
+If you do not have Intellij download here ![here](https://www.jetbrains.com/idea/download/)
 Ensure you have MainApplication.java open and choose to run from current file ![image](https://github.com/user-attachments/assets/fc4c246e-4e54-4b98-be17-dff602f4bde2)
 
 I hope you enjoy the game! Please let me know if you play it :)
