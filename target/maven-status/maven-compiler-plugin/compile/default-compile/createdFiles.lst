@@ -1,0 +1,8 @@
+controller\DatabaseConnection.class
+controller\BallManager.class
+model\Ball.class
+controller\GameSerializer.class
+model\Racket.class
+model\Player.class
+model\GameObject.class
+controller\MenuListener.class

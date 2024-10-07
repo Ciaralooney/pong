@@ -1,0 +1,19 @@
+Player 1 Name:ham
+Player 1 Score:1
+Player 1 Racket PosX:30.0
+Player 1 Racket PosY:100.0
+Player 1 Racket Height:67.0
+Player 1 Racket Width:45.0
+Player 2 Name:sam
+Player 2 Score:0
+Player 2 Racket PosX:525.0
+Player 2 Racket PosY:100.0
+Player 2 Racket Height:67.0
+Player 2 Racket Width:45.0
+Score Limit:3
+Ball Speed X:6.050000000000001
+Ball Speed Y:-12.100000000000001
+Ball Speed Timer:2
+Ball Speed Bounces:5
+Ball Position X:254.3000000000002
+Ball Position Y:280.0999999999998
