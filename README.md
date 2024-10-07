@@ -15,4 +15,5 @@ Run Intellij and open the project there.
 If you do not have Intellij download here [here](https://www.jetbrains.com/idea/download/)
 Ensure you have MainApplication.java open and choose to run from current file ![image](https://github.com/user-attachments/assets/fc4c246e-4e54-4b98-be17-dff602f4bde2)
 
+
 I hope you enjoy the game! Please let me know if you play it :)
